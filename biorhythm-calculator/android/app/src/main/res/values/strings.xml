@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Biorhythms</string>
+    <string name="title_activity_main">Biorhythms</string>
+    <string name="package_name">org.example.biorhythms</string>
+    <string name="custom_url_scheme">org.example.biorhythms</string>
+</resources>
